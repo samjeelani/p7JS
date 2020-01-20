@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Restaurant Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.10.1/css/mdb.min.css" rel="stylesheet">
+    
+
+   </head>
+   
+    <body>
+        
+    <!-- Header -->
+     <div class="header">
+    <h1 class="text-center">Restaurant Reviews</h1>
+      </div>
+      
+     <!-- Map -->
+        <div class="container-fluid">
+       <div class="row">
+       <div class="map-container col-lg-7 col-md-7 col-sm-12 sticky-top py-3">
+       <div class="map-container">
+         <div id="map" class="map"></div>
+         
+        <div id="nearbyCard1" class="nearbyCard1"></div>
+
+     <div id="showData"></div>
+        <div id="placeResults" class="placeResults"></div>
+      </div>
+      </div>
+            </div>
+        </div>
+<div id="data"> 
+     </div>
+      
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSfsZVAfJHMlWPUkQKezHuXKCcbB2AddY&callback=initMap" async defer></script>  
+    <script src="js/Map.js"></script>
+    
+  </body>
+</html>
+
+
+
+

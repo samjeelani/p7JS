@@ -1,0 +1,103 @@
+var details = '{
+   "restaurant": [
+       {
+		"restaurantName": "Sandwich Shop",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipNoJ58v885O1M0SC7G_1YF23X6o2F1l7NEoUnCy=w425-h240-k-no",
+		"address": "6496 Prince Mutaib bin Abdulaziz Rd, Mushrifah, Jeddah 23341",
+		"cusine": "Arabian",
+		"priceRange": "$$",
+		"lat": 21.543412,
+		"long": 39.216096,
+		"ratings": [{
+				"stars": 5,
+				"comment": "Delicious! "
+			},
+			{
+				"stars": 5,
+				"comment": "That was the best Shawerma I have ever had. "
+			},
+			{
+				"stars": 2,
+				"comment": "Yummmmy"
+			},
+			{
+				"stars": 5,
+				"comment": "What a sandwich!"
+			}
+		]
+	} ,
+	{
+		"restaurantName": "Dunkin Donuts",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipNOg0bTBJQDL42HWQnv48EGpJ48E6wmhGl-_h5Z=w408-h380-k-no",
+		"address": "6933 Prince Mutaib bin Abdulaziz Rd, Ar Rehab, Jeddah 23343",
+		"cusine": "Desserts",
+		"priceRange": "$$",
+		"lat": 21.544255,
+		"long": 39.216476,
+		"ratings": [{
+				"stars": 4,
+				"comment": "The best donuts ever!"
+			},
+			{
+				"stars": 4,
+				"comment": "The frappucino was delicious."
+			}
+		]
+	},
+	{
+		"restaurantName": "Mama Nado Pizza and Pie",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipOXVRMHO7nwoM3VZ2Zr_ufTPS7QLyD_iZ4ZBQNh=w408-h306-k-no",
+		"address": "6914 Prince Mutaib bin Abdulaziz Rd, Mushrifah, Jeddah 23341",
+		"cusine": "Italian",
+		"priceRange": "$",
+		"lat": 21.543187,
+		"long": 39.216197,
+		"ratings": [{
+				"stars": 5,
+				"comment": "Try the ranch pizza, it's the best I ever ate."
+			},
+			{
+				"stars": 3,
+				"comment": "Something average.. comes as you order.. never regrets ordering from this restaurant.. the workers are so friendly."
+			}
+		]
+	},
+	{
+		"restaurantName": "Burger Kitchen",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipPiS9rRtZ68RxvbHe_IPnbNjc3PLe1gXmCYhJKL=w408-h507-k-no",
+		"address": "6852 Prince Mutaib bin Abdulaziz Rd, Mishrifah, Jeddah 23341",
+		"cusine": "Fast Food",
+		"priceRange": "$$",
+		"lat": 21.542703,
+		"long": 39.216192,
+		"ratings": [{
+				"stars": 5,
+				"comment": "Burgers here are amazing. They taste really good, the first time I had a burger here, wasn't expecting such a great taste. its been more than a year since I've been having my Burger meals at Burger Kitchen. Go for the Double patty beef burger. Well proportioned, balanced and filling. Keep it up guys."
+			},
+			{
+				"stars": 3,
+				"comment": "Prices are high and items are not any special.. just a regular chicken burger in 13 to 15? no special taste. Just a nice and clean outlet. but no taste. Same burger you may find in 5 riyals"
+			}
+		]
+	},
+	{
+		"restaurantName": "Al Saeedi",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipNOUC-mdU_nz9xcsKs_21y3kLFs0Lj9_ZpQv0_e=w408-h408-k-no",
+		"address": "Mishrifah, Jeddah 23343",
+		"cusine": "Arabian",
+		"priceRange": "$$",
+		"lat": 21.543543,
+		"long": 39.216211,
+		"ratings": [{
+				"stars": 5,
+				"comment": "Order avocado mix you will like it."
+			},
+			{
+				"stars": 5,
+				"comment": "Avocado!"
+			}
+		]
+	}
+]
+
+}'
